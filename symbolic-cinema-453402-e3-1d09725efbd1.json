@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "symbolic-cinema-453402-e3",
+  "private_key_id": "1d09725efbd15b86f3a809b648413c2a4e7059d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx1LL7qbjAbthC\n73YFzkhrtmF4k9RZhV62WJFRPxBLlGwTUc8F/jhLp8RqANvdY7qxPFfZ/PhAhHTB\nOuR+fO8x/7c4Y0heID4S1xeNfh0NbSP3X3LJ46N3aJF7bmp9l3LEDA33BN9GnfZI\n7/J1QDmeYdP8yXnIbLu5SbyN8ntfKSs0IOmt6fCOrk4a/J0QpedOd4GXMhVby6Kq\nRhYHX9i7onrDbYsc6cCbgMm7dS5T/rViH+RUqAkQ/PB6v7W0tuWfA4FsjwL47Wdd\neieboecRe4Kmj2hw1Jyp8HWmW05p6XMRviUozc+qGqNGOT3viyGXiwBaP8r7NaD+\n1BPHx1UBAgMBAAECggEAC3vWVm0hOqq4eX4YQOC6NDEnaI93V5PxcqoT3Et2bxhg\ncFDzTbTwiBDcnLx9y6AHQYR0PJCwVrjsXJbD2a08uchZ2cuDiVyLVaZ2kBMUUjZ5\nlkh007fJFHV4FktM7NutCXRT1IoH1yTCmkwwe++P/lEyojDqleL7rnKmDq6ZgU1o\n5uzlTUWHlJY8xVK6r4CK8cCkCqtzgDA0c8gdq53wqOZVj5QDaXVtOrlmYPrP+BlN\nTSJH+ksz+KNJh5U4NjxvOghu9yabSDuBMN4VYZMAuYSDiSOUmJmsJSQ8UtLuvKoR\nwFsrksTn5YxvWY8kZnJ/MOJDQlxCB0cCJetAWuKf1wKBgQDYecyawJ7usIaJ9SOX\nOnsGL/+6WIu/bOn3EUNw7HzMM0pAE1vhgzqUDjxTgc0lrDpYt6xKVA0wZII4xttN\nKLSws8Db2ORngLjpRJCB38vmwoELeqiwk6BKjbTwXixtvOL2Qss2Ig8/eIdWiPDB\nM8lHkC534nxyaxAvGJL6f10HVwKBgQDSTJ1DvITLHjwCJ9V0Evck7fsP7Hxdt7u3\nB+xOpFTnKPa5Iq5pGbggCBKaO81g/CIJEEzXahjW2TnFu+RXFAzDqkkMdCCI7eZG\nUvIKU+HhGt9sdKcMnlmbhmsTx9cIn4H2A06ZYJ9UrNUG/uylph5SMpVvQa9M79uk\ng1cruUoHZwKBgQCFPaKz9a9dVwXYUCxR3sruKgkLF4kcj9sKGXQbQ1QlE8S137SD\n/5PEoWZ8N76fW3ymMpc3QLjFene0nqFIwq9Eu78PElazZkVqPqt7ZNZJ+JoZCKxf\n0t2sRcCC2lQaT1KbJM2TSi98b6FNoAgfwtI23AXeAGd8vW0+r693w4DtDQKBgQCe\nyMA5Y770SljO29q8MJGwrYtSA6IHdPHkCbRv0H5Wp0RalwgPTR8L+GxrTdoNb3IX\nW9pZD7+/gPaxCOQop3fXyNws7gWevdmPoZMlHx6+w3aMwitbSLipyD1TCyGeXilX\nYjnXbu/+lByokpSFoj7km1LfVT4SHky+E3kfB2EQ4wKBgD08mxTUD1cdHp3Im47q\nBVFsP6FwdMrAoxfhMkylh4zM5z9ITmSo5uwO/0cJm9lc24tNhOXcdbhwc6BIztMc\nwrFaCUmKWeA83N353Wk8DHQx8m96D+AlTeZkwnyDcgS0Tk9PC0021B31XA8o1xZ0\nXBQJjc5B2hUMimQaEmFkPDL6\n-----END PRIVATE KEY-----\n",
+  "client_email": "mloops-project-1@symbolic-cinema-453402-e3.iam.gserviceaccount.com",
+  "client_id": "107793164135783542067",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mloops-project-1%40symbolic-cinema-453402-e3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

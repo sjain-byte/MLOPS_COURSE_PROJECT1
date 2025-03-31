@@ -1,0 +1,6 @@
+mlruns/
+venv1/
+*.pyc
+logs/
+MLOPS_PROJECT_1.egg-info/
+notebook/best_rf_model.pkl
